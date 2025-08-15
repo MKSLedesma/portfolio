@@ -1,4 +1,5 @@
 import React from "react";
+import image from "../assets/image.png";
 
 export default function Presentation() {
     return (
@@ -16,7 +17,7 @@ export default function Presentation() {
             </a>
             </div>
             <div className="presentation-image">
-                <img src="/image.png" alt="Cristian Ledesma" />
+                <img src={image} alt="Cristian Ledesma" />
             </div>
         </div>
     );
