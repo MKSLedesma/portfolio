@@ -15,7 +15,23 @@ const PROJECTS = {
         image: "https://via.placeholder.com/150",
         tags: "Java | JavaFX | UML | OOP | MVC | Principle Desing Patterns",
         link: "https://example.com/project2"
-    }
+    },
+
+    3: {
+    title: "Need For Speed 2D", 
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste perferendis recusandae quaerat doloribus quia eligendi. Ducimus corporis assumenda obcaecati quidem quasi! Dolorum veniam dolore, tenetur consequatur officia libero expedita laboriosam!",
+    image: "https://via.placeholder.com/150",
+    tags: "C++ | SDL2 | OOP | Client-Server Architecture | Game Development",
+    link: "https://example.com/project3"
+    },
+
+    4: {
+    title: "PSA Finance Module", 
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste perferendis recusandae quaerat doloribus quia eligendi. Ducimus corporis assumenda obcaecati quidem quasi! Dolorum veniam dolore, tenetur consequatur officia libero expedita laboriosam!",
+    image: "https://via.placeholder.com/150",
+    tags: "JavaScript | React | PostgreSQL | MVC | RESTful APIs",
+    link: "https://example.com/project2"
+}
 }
 
 const Projects = () => {
