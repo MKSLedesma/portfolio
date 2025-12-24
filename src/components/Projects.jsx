@@ -18,8 +18,8 @@ const PROJECTS = {
     },
 
     3: {
-    title: "Need For Speed 2D", 
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste perferendis recusandae quaerat doloribus quia eligendi. Ducimus corporis assumenda obcaecati quidem quasi! Dolorum veniam dolore, tenetur consequatur officia libero expedita laboriosam!",
+    title: "Need4Speed 2D", 
+    description: "Need4Speed es un juego 2D inspirado en Need for Speed, desarrollado en C++ con SDL2, Qt y Box2D. El proyecto incluye tres aplicaciones principales: Cliente, Servidor y Editor de mapas. Consta de 3 mapas colisionables y elementos visuales interactivos, con varios vehiculos unicos para elegir.",
     image: "https://via.placeholder.com/150",
     tags: "C++ | SDL2 | OOP | Client-Server Architecture | Game Development",
     link: "https://example.com/project3"
@@ -27,10 +27,10 @@ const PROJECTS = {
 
     4: {
     title: "PSA Finance Module", 
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste perferendis recusandae quaerat doloribus quia eligendi. Ducimus corporis assumenda obcaecati quidem quasi! Dolorum veniam dolore, tenetur consequatur officia libero expedita laboriosam!",
+    description: "Modulo de finanzas para configuración de costos que permite administrar tarifas de mano de obra y vigencias, y reportes para ver el desglose de costos.",
     image: "https://via.placeholder.com/150",
     tags: "JavaScript | React | PostgreSQL | MVC | RESTful APIs",
-    link: "https://example.com/project2"
+    link: "https://agusdubo.github.io/tribu-A-front-end-deployment/#/"
 }
 }
 
